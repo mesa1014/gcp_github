@@ -1,4 +1,4 @@
-# Google function dependencies
+# Google function dependencies:
 google-cloud-storage
 google-cloud-bigquery
 google-cloud-logging
